@@ -1,0 +1,21 @@
+{
+  "name": "calculator",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "Calculator Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "Syed Abdul Manan",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.6",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
